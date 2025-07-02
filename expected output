@@ -1,0 +1,7 @@
+taining:
+✅ Model Trained. Accuracy: 90.00%
+
+testing:
+🎙️ Recording...
+✅ Recording saved: test_sample.wav
+🟥 Prediction: LIE detected!
