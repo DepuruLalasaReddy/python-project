@@ -1,0 +1,4 @@
+Goal: Detect voice stress (as a proxy for lies) using MFCC audio features and a trained ML model.
+
+Tech Used: Python, Librosa, Sounddevice, Scikit-learn, RandomForest.
+
